@@ -1,5 +1,17 @@
 # @medusajs/workflows-sdk
 
+## 2.22.7
+
+### Patch Changes
+
+- [#17162](https://github.com/medusajs/medusa/pull/17162) [`9e0b69c`](https://github.com/medusajs/medusa/commit/9e0b69cf36b1e0f411728ed1c1de5b83dac68691) Thanks [@shahednasser](https://github.com/shahednasser)! - fix(workflows-sdk): use the renamed step's handler when a step configured with a new name runs inside `when`
+
+- Updated dependencies [[`75d8121`](https://github.com/medusajs/medusa/commit/75d81218810f5c8a60951a917d2f899bf3967d2f), [`ce6b88a`](https://github.com/medusajs/medusa/commit/ce6b88a3f01f7537dfa734ebf31e650c114a761d), [`1532c20`](https://github.com/medusajs/medusa/commit/1532c20d65386c4c0b535ec104c6ef309bc176ac), [`fd943bf`](https://github.com/medusajs/medusa/commit/fd943bf0ab1079947dd63758933b8adc5b22c114), [`93d4cc3`](https://github.com/medusajs/medusa/commit/93d4cc370e1b31be28c9b93b465c5dcf176616fb), [`9db3748`](https://github.com/medusajs/medusa/commit/9db37488d4be757b0139aac1e15fb79ed395fc6c), [`08c9355`](https://github.com/medusajs/medusa/commit/08c9355d2008a9d04bd885a89d18a602a9d5e37c), [`90901f3`](https://github.com/medusajs/medusa/commit/90901f39c53ec1ee719dfda825ec576613bf5a1b)]:
+  - @medusajs/utils@2.22.7
+  - @medusajs/modules-sdk@2.22.7
+  - @medusajs/orchestration@2.22.7
+  - @medusajs/deps@2.22.7
+
 ## 2.22.6
 
 ### Patch Changes

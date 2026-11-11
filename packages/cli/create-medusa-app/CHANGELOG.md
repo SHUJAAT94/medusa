@@ -1,5 +1,15 @@
 # Change Log
 
+## 2.22.7
+
+### Patch Changes
+
+- [#17521](https://github.com/medusajs/medusa/pull/17521) [`ce6b88a`](https://github.com/medusajs/medusa/commit/ce6b88a3f01f7537dfa734ebf31e650c114a761d) Thanks [@shahednasser](https://github.com/shahednasser)! - fix(utils,create-medusa-app): escape database names in database creation and existence queries
+
+- Updated dependencies []:
+  - @medusajs/deps@2.22.7
+  - @medusajs/telemetry@2.22.7
+
 ## 2.22.6
 
 ### Patch Changes

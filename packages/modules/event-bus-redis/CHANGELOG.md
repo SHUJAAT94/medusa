@@ -1,5 +1,14 @@
 # @medusajs/event-bus-redis
 
+## 2.22.7
+
+### Patch Changes
+
+- [#17553](https://github.com/medusajs/medusa/pull/17553) [`7d27710`](https://github.com/medusajs/medusa/commit/7d277103cf070e895843751e9b6850b5a715d83f) Thanks [@medusa-os-bot](https://github.com/apps/medusa-os-bot)! - fix(event-bus-redis,workflow-engine-redis): catch failed Redis connects in loaders
+
+- Updated dependencies [[`beca252`](https://github.com/medusajs/medusa/commit/beca2525ebb9298caa9d7ad2266c12961b3470af), [`48b6d2d`](https://github.com/medusajs/medusa/commit/48b6d2d42089f8f4ba846a30a84f2031eca34b0f), [`db78b61`](https://github.com/medusajs/medusa/commit/db78b61eb2e74218436fe96222f01b93d23dc895), [`beca252`](https://github.com/medusajs/medusa/commit/beca2525ebb9298caa9d7ad2266c12961b3470af), [`afd2820`](https://github.com/medusajs/medusa/commit/afd2820e0ff11193144a8de0e8ee7959784d157c)]:
+  - @medusajs/framework@2.22.7
+
 ## 2.22.6
 
 ### Patch Changes

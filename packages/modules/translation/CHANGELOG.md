@@ -1,5 +1,14 @@
 # @medusajs/translation
 
+## 2.22.7
+
+### Patch Changes
+
+- [#17741](https://github.com/medusajs/medusa/pull/17741) [`9db3748`](https://github.com/medusajs/medusa/commit/9db37488d4be757b0139aac1e15fb79ed395fc6c) Thanks [@NicolasGorga](https://github.com/NicolasGorga)! - chore: remove the translation feature flag and enable the Translation Module by default
+
+- Updated dependencies [[`beca252`](https://github.com/medusajs/medusa/commit/beca2525ebb9298caa9d7ad2266c12961b3470af), [`48b6d2d`](https://github.com/medusajs/medusa/commit/48b6d2d42089f8f4ba846a30a84f2031eca34b0f), [`db78b61`](https://github.com/medusajs/medusa/commit/db78b61eb2e74218436fe96222f01b93d23dc895), [`beca252`](https://github.com/medusajs/medusa/commit/beca2525ebb9298caa9d7ad2266c12961b3470af), [`afd2820`](https://github.com/medusajs/medusa/commit/afd2820e0ff11193144a8de0e8ee7959784d157c)]:
+  - @medusajs/framework@2.22.7
+
 ## 2.22.6
 
 ### Patch Changes

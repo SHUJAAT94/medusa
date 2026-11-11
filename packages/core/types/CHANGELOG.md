@@ -1,5 +1,27 @@
 # @medusajs/types
 
+## 2.22.7
+
+### Patch Changes
+
+- [#17576](https://github.com/medusajs/medusa/pull/17576) [`beca252`](https://github.com/medusajs/medusa/commit/beca2525ebb9298caa9d7ad2266c12961b3470af) Thanks [@NicolasGorga](https://github.com/NicolasGorga)! - feat(framework,types): allow additional cors option in project config
+
+- [#17751](https://github.com/medusajs/medusa/pull/17751) [`48b6d2d`](https://github.com/medusajs/medusa/commit/48b6d2d42089f8f4ba846a30a84f2031eca34b0f) Thanks [@shahednasser](https://github.com/shahednasser)! - feat(medusa,types,framework): use cross-module joins instead of the index module
+
+- [#17763](https://github.com/medusajs/medusa/pull/17763) [`db78b61`](https://github.com/medusajs/medusa/commit/db78b61eb2e74218436fe96222f01b93d23dc895) Thanks [@shahednasser](https://github.com/shahednasser)! - fix(framework, types): set security headers and hide the X-Powered-By header on HTTP responses, configurable with `http.securityHeaders`
+
+- [#17576](https://github.com/medusajs/medusa/pull/17576) [`beca252`](https://github.com/medusajs/medusa/commit/beca2525ebb9298caa9d7ad2266c12961b3470af) Thanks [@NicolasGorga](https://github.com/NicolasGorga)! - feat(framework,types): add `http.corsOptions` to configure `maxAge`, `exposedHeaders`, `allowedHeaders`, and `methods` for CORS
+
+- [#17389](https://github.com/medusajs/medusa/pull/17389) [`fd943bf`](https://github.com/medusajs/medusa/commit/fd943bf0ab1079947dd63758933b8adc5b22c114) Thanks [@sradevski](https://github.com/sradevski)! - fix(core-flows): Replace account holders that the payment provider no longer has when creating payment sessions
+
+- [#16892](https://github.com/medusajs/medusa/pull/16892) [`b6c0df0`](https://github.com/medusajs/medusa/commit/b6c0df056e287d00589236b00d07b407817b9f6a) Thanks [@shahednasser](https://github.com/shahednasser)! - fix(types): allow filtering nullable `json` columns and nullable to-many relations in `query.graph`
+
+- [#16960](https://github.com/medusajs/medusa/pull/16960) [`ea7bc2e`](https://github.com/medusajs/medusa/commit/ea7bc2e2068f1cb295dbf4a1c4f0553b4d364eca) Thanks [@shahednasser](https://github.com/shahednasser)! - fix(core-flows, types): add is_custom_price to order mutation types, and set the property on cart completion
+
+- [#17754](https://github.com/medusajs/medusa/pull/17754) [`93d4cc3`](https://github.com/medusajs/medusa/commit/93d4cc370e1b31be28c9b93b465c5dcf176616fb) Thanks [@shahednasser](https://github.com/shahednasser)! - chore(index,query,medusa,types,utils): deprecate the Index Module
+
+- [#16999](https://github.com/medusajs/medusa/pull/16999) [`c9c8038`](https://github.com/medusajs/medusa/commit/c9c803815766d00f6421edacb2631fa97b61eeb0) Thanks [@shahednasser](https://github.com/shahednasser)! - fix(types): align `Pluralize` type with runtime pluralization for words ending in "o"
+
 ## 2.22.6
 
 ## 2.22.5
